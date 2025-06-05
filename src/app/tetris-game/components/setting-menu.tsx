@@ -117,7 +117,7 @@ export default function SettingsMenu({
                 MUSIC CREDITS
               </h3>
               <a
-                href="https://www.youtube.com/watch?v=DuwRnZvfyA8"
+                href="https://www.youtube.com/watch?v=W9gO-K7_31M"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs text-gray-700 hover:text-blue-700 hover:underline block transition-colors"
