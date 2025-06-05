@@ -27,7 +27,7 @@ export default function Home() {
             <Badge className="ml-1 px-2">
               <Link
                 href={"/happy-wheel"}
-                className="flex gap-2 flex-row font-semibold items-center   hover:underline"
+                className="flex gap-2 flex-row font-semibold items-center hover:underline"
               >
                 Thử ngay! <SquareArrowOutUpRight size={16} />
               </Link>
@@ -38,7 +38,18 @@ export default function Home() {
             <Badge className="ml-1 px-2">
               <Link
                 href={"/caro-game"}
-                className="flex gap-2 flex-row font-semibold items-center   hover:underline"
+                className="flex gap-2 flex-row font-semibold items-center hover:underline"
+              >
+                Thử ngay! <SquareArrowOutUpRight size={16} />
+              </Link>
+            </Badge>
+          </li>
+          <li>
+            Tetris{" "}
+            <Badge className="ml-1 px-2">
+              <Link
+                href={"/tetris-game"}
+                className="flex gap-2 flex-row font-semibold items-center hover:underline"
               >
                 Thử ngay! <SquareArrowOutUpRight size={16} />
               </Link>
